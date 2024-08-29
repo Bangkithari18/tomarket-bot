@@ -57,7 +57,7 @@ Auto farm ticket
                8. Open DevTools (right-click on the page and select "Inspect").
                9. Go to the "Console" tab
                10. Copy [data](#how-to-get-data) paste and click enter, if you show data copied !
-               11.Go to ".env" and paste to QUERY_ID="USERXXXXX" you can replace "USERXXXXX"
+               11.Go to `.env` and paste to QUERY_ID=`USERXXXXX` you can replace `USERXXXXX`
 
 ## How To Get Data
 
