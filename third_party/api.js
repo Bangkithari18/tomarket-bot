@@ -5,7 +5,7 @@ async function getToken() {
     url: "https://api-web.tomarket.ai/tomarket-game/v1/user/login",
     method: "POST",
     data: {
-      init_data: process.env.QUERY_ID,
+      init_data: process.env.DATA,
       invite_code: "0000337d",
     },
   });
